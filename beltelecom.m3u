@@ -1,0 +1,208 @@
+# EXTM3U url-tvg = "https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTINF:-1,Беларусь 1
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/M52YG9EVYD_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 2
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/GCKYZGGFEJ_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 3
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/TSNEW37RPC_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Брест
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/CH_BELARUS4BR_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Витебск
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/CH_BELARUS4VIT_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Гомель
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/CH_BELARUS4GOM_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Гродно
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/CH_BELARUS4GR_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Могилев
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/CH_BELARUS4MOG_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 5
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1,Мир
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/M4K3ZYBPWQ_HLS/variant.m3u8
+#EXTINF:-1,Мир HD
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/ZXUZZKCA6P_HLS/variant.m3u8
+#EXTINF:-1,Euronews
+#EXTGRP:Новостные
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,НТВ Беларусь
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/DYJ5GH8HOK_HLS/variant.m3u8
+#EXTINF:-1,ОНТ
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/NCLEFHVZGR_HLS/variant.m3u8
+#EXTINF:-1,РТР-Беларусь
+#EXTGRP:Эфирные
+http://178.124.183.5:80/hls/7MQSYYGHFE_HLS/variant.m3u8
+#EXTINF:-1,ББК
+#EXTGRP:ЭНовостные
+http://178.124.183.5:80/hls/MCEQ4XBTHP_HLS/variant.m3u8
+#EXTINF:-1,TV1000
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/6WMZMUEWGN_HLS/variant.m3u8
+#EXTINF:-1,TV1000 Action
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/9X9NUEEKGW_HLS/variant.m3u8
+#EXTINF:-1,TV1000 Русское кино
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/PWIKICZUYF_HLS/variant.m3u8
+#EXTINF:-1,Индийское кино
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CH_INDIYATV_HLS/variant.m3u8
+#EXTINF:-1,Киномикс
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/VVG76MWUGX_HLS/variant.m3u8
+#EXTINF:-1,Кинопремьера HD
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CH_KINOPREMERA_HLS/variant.m3u8
+#EXTINF:-1,Киносемья
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/FEDXG8XPOR_HLS/variant.m3u8
+#EXTINF:-1,Кинохит
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/HDOHSSZQCP_HLS/variant.m3u8
+#EXTINF:-1,Еврокино
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/JEDUS3FS7V_HLS/variant.m3u8
+#EXTINF:-1,Иллюзион
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/V8TRED4CZL_HLS/variant.m3u8
+#EXTINF:-1,Sony Channel HD
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/VPRSUR2WN2_HLS/variant.m3u8
+#EXTINF:-1,Sony Sci-Fi
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/EDVYQYGHF8_HLS/variant.m3u8
+#EXTINF:-1,Русский Иллюзион
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CMV4SNACFQ_HLS/variant.m3u8
+#EXTINF:-1,Родное Кино
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8
+#EXTINF:-1,FOX
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CH_FOX_HLS/variant.m3u8
+#EXTINF:-1,FOX Life
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CH_FOXL_HLS/variant.m3u8
+#EXTINF:-1,Мужское кино
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/W7LNWHFGTB_HLS/variant.m3u8
+#EXTINF:-1,Наше любимое кино
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CH_NASHEKINO_HLS/variant.m3u8
+#EXTINF:-1,Вектор ТВ
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CH_VECTOR_HLS/variant.m3u8
+#EXTINF:-1,ВТВ
+#EXTGRP:Кино
+http://178.124.183.5:80/hls/CRCQFRNUFJ_HLS/variant.m3u8
+#EXTINF:-1,ТВ-3 Беларусь
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/KLQQ9ECGSQ_HLS/variant.m3u8
+#EXTINF:-1,ТНТ international
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/MVNP5DA4U9_HLS/variant.m3u
+#EXTINF:-1,Драйв
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/6UTCEG6ATO_HLS/variant.m3u8
+#EXTINF:-1,ЕДА ПРЕМИУМ HD
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/BCPKKUK5NT_HLS/variant.m3u8
+#EXTINF:-1,Ностальгия
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/SWPQU2UFKD_HLS/variant.m3u8
+#EXTINF:-1,НСТ
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/NEZVX5TVZX_HLS/variant.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/9XJGVFFAWZ_HLS/variant.m3u8
+#EXTINF:-1,Сарафан
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/Y9GP8UFTZO_HLS/variant.m3u8
+#EXTINF:-1,СТВ
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/RZEQ3BLSTY_HLS/variant.m3u8
+#EXTINF:-1,Усадьба
+#EXTGRP:Развлекательные
+http://178.124.183.5:80/hls/XMC4NSRVN9_HLS/variant.m3u8
+#EXTINF:-1,History
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/CH_HISTORY_HLS/variant.m3u8
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/ESCMSBZJ8X_HLS/variant.m3u8
+#EXTINF:-1,National Geographic Channel
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/CH_NATGEO_HLS/variant.m3u8
+#EXTINF:-1,Oхотник и Рыболов HD
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/4FDNBEDGFV_HLS/variant.m3u8
+#EXTINF:-1,GALAXY
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/CH_GALAXY_HLS/variant.m3u8
+#EXTINF:-1,Наука
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/LWWBCKZAPZ_HLS/variant.m3u8
+#EXTINF:-1,Техно 24
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/ZIVFRAFR2I_HLS/variant.m3u8
+#EXTINF:-1,Оружие
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/EWEXU8FWAZ_HLS/variant.m3u8
+#EXTINF:-1,Охота и Рыбалка
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/VF5ELDF8AL_HLS/variant.m3u8
+#EXTINF:-1,Viasat Explore
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/JQQ83OBHTQ_HLS/variant.m3u8
+#EXTINF:-1,Viasat Nature
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/BN3FTDY3T8_HLS/variant.m3u8
+#EXTINF:-1,Моя планета
+#EXTGRP:Познавательные
+http://178.124.183.5:80/hls/FV47BRVQW4_HLS/variant.m3u8
+#EXTINF:-1,2x2
+#EXTGRP:Детские
+http://178.124.183.5:80/hls/EU9VTLDQCN_HLS/variant.m3u8
+#EXTINF:-1,Мульт
+#EXTGRP:Детские
+http://178.124.183.5:80/hls/5MWF7XUWZI_HLS/variant.m3u8
+#EXTINF:-1,СТС Kids
+#EXTGRP:Детские
+http://178.124.183.5:80/hls/CH_CTCKIDS_HLS/variant.m3u8
+#EXTINF:-1,Мультимания
+#EXTGRP:Детские
+http://178.124.183.5:80/hls/FBYQ8KG5HM_HLS/variant.m3u8
+#EXTINF:-1,Детский Мир
+#EXTGRP:Детские
+http://178.124.183.5:80/hls/9F67L3DGIF_HLS/variant.m3u8
+#EXTINF:-1,RTVI
+#EXTGRP:Детские
+http://178.124.183.5:80/hls/PN9VRQ5DGR_HLS/variant.m3u8
+#EXTINF:-1,КХЛ
+#EXTGRP:Спорт
+http://178.124.183.5:80/hls/36H3IDE2WF_HLS/variant.m3u8
+#EXTINF:-1,RU TV
+#EXTGRP:Музыка
+http://178.124.183.5:80/hls/XW6AGFSZJ8_HLS/variant.m3u8
+#EXTINF:-1,ТНТ Music
+#EXTGRP:Музыка
+http://178.124.183.5:80/hls/BCJGRB3KAX_HLS/variant.m3u8
+#EXTINF:-1,Шансон ТВ
+#EXTGRP:Музыка
+http://178.124.183.5:80/hls/3K2MEWVSDF_HLS/variant.m3u8
+#EXTINF:-1,Жара
+#EXTGRP:Музыка
+http://178.124.183.5:80/hls/DXBSFZDTDG_HLS/variant.m3u8
