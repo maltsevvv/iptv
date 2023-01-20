@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://help.a1.by/_files/TelecomTV/TelecomTVepg/xmltv.xml" url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://picon.ml/tv1000.png", TV 1000
 udp://@233.81.116.83:1234
