@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/maltsevvv/iptv/main/a1.m3u
 ```
 
-### Full channel list A1
+### Full channel list A1 (voka.tv)
 
 https://github.com/mashrum/a1_m3u
 
