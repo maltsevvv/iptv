@@ -1,9 +1,6 @@
-﻿# iptvscan
+#!/usr/bin/env python3
 # Script for scanning and saving IPTV playlist.
-# Python v.3 required for using. https://www.python.org/downloads/
-
 # Author: joddude <joddude@gmail.com>
-# python3 iptvsearch.py
 #------------------------------------------------------------------------------
 
 # A1 Belarus (udp://@233.81.116.1)
