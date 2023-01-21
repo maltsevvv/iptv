@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U url-tvg="http://help.a1.by/_files/TelecomTV/TelecomTVepg/xmltv.zip"
 
 #EXTINF:-1 tvg-logo="https://picon.ml/tv1000.png", TV 1000
 udp://@233.81.116.83:1234
@@ -56,25 +56,6 @@ https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon.ml/kinouzhas.png", Киноужас 
 http://109.197.192.121:8080/kinouzhas/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://picon.ml/bcu-action.png", BCU Action HD
-https://nl01.spr24.net/20810/mpegts?token=XKbvudTTqLkLZP
-#EXTINF:-1 tvg-logo="https://picon.ml/bcu-catastrophe.png", BCU Catastrophe HD
-https://nl01.spr24.net/20811/mpegts?token=XKbvudTTqLkLZP
-#EXTINF:-1 tvg-logo="https://picon.ml/bcu-cinema.png", BCU Cinema HD
-https://nl01.spr24.net/20812/mpegts?token=XKbvudTTqLkLZP
-#EXTINF:-1 https://picon.ml/bcu-cinemaplus.png",BCU Cinema+ HD
-https://nl01.spr24.net/20832/mpegts?token=XKbvudTTqLkLZP
-#EXTINF:-1 tvg-logo="https://picon.ml/bcu-cosmo.png",BCU Cosmo HD
-https://nl01.spr24.net/20845/mpegts?token=XKbvudTTqLkLZP
-#EXTINF:-1 tvg-logo="https://picon.ml/bcu-fantastic.png",BCU Fantastic HD
-https://nl01.spr24.net/20814/mpegts?token=XKbvudTTqLkLZP
-#EXTINF:-1 tvg-logo="https://picon.ml/bcu-filmystic.png",BCU FilMystic HD
-https://nl01.spr24.net/20815/mpegts?token=XKbvudTTqLkLZP
-#EXTINF:-1 tvg-logo="https://picon.ml/bcu-marvel.png",BCU Marvel HD
-https://nl01.spr24.net/20818/mpegts?token=XKbvudTTqLkLZP
-
-
 
 #EXTINF:-1 tvg-logo="https://picon.ml/backustv.png", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
