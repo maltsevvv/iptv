@@ -54,6 +54,8 @@ udp://@233.81.116.30:1234
 #EXTINF:-1 tvg-logo="https://picon.ml/mult.png", Мульт
 https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://picon.ml/kinouzhas.png", Киноужас 
+http://109.197.192.121:8080/kinouzhas/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picon.ml/bcu-action.png", BCU Action HD
 https://nl01.spr24.net/20810/mpegts?token=XKbvudTTqLkLZP
@@ -78,8 +80,7 @@ https://nl01.spr24.net/20818/mpegts?token=XKbvudTTqLkLZP
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/backustv-horror.png", BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://picon.ml/kinouzhas.png", Киноужас 
-https://sc.id-tv.kz/Kinouzhas_hd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://picon.ml/iptvxone.png", STR
 https://strtv.at.ua/hls/index.m3u8
