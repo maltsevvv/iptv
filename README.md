@@ -4,10 +4,9 @@
 https://raw.githubusercontent.com/maltsevvv/iptv/main/a1.m3u
 ```
 
-### Full channel list A1 (voka.tv)
+### Full channel list A1 (voka.tv) https://github.com/mashrum/a1_m3u
 
-https://github.com/mashrum/a1_m3u
-
+### Сторонный лист https://github.com/JekaLich/smtk
 
 ## EPG 
 
