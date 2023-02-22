@@ -31,7 +31,7 @@ chmod +x /storage/.config/epg.sh
 
 #### Запуск `sh /storage/.config/epg.sh`
 
-###№ Запуск каждые 3 часа. ADD in crontab  
+#### Запуск каждые 3 часа. ADD in crontab  
 `crontab -e`  
 ```
 0 */3 * * * /usr/bin/bash /storage/.config/epg.sh
