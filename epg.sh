@@ -1,8 +1,8 @@
 #!/bin/bash
 
-url=https://iptvx.one/epg/epg_lite.xml.gz 
+url='https://iptvx.one/EPG_LITE.xml.gz'
 folder='/storage/downloads/'
-epg_full=$folder'epg_lite.xml'
+epg_full=$folder'EPG_LITE.xml'
 epg=$folder'epg.xml'
 
 if wget -P $folder -q $url; then
