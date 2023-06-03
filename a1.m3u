@@ -55,7 +55,7 @@ udp://@233.81.116.30:1234
 https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8
 
 #EXTINF:-1 tvg-name="kinouzhas", Киноужас 
-http://109.197.192.121:8080/kinouzhas/index.m3u8
+https://sc.id-tv.kz/Kinouzhas_hd.m3u8
 
 #EXTINF:-1 tvg-name="backustv", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
