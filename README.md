@@ -53,7 +53,7 @@ wget -P /usr/local/bin/ https://raw.githubusercontent.com/maltsevvv/iptv/main/ep
 sudo chmod +x /usr/local/bin/epg.sh
 ```
 
-#### Запуск `sh /storage/.config/epg.sh`
+#### Запуск `sh /usr/local/bin/epg.sh`
 
 #### Запуск каждые 3 часа. ADD in crontab  
 ```
