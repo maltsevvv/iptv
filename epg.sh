@@ -21,6 +21,7 @@ if wget -P $folder -q $url; then
 	grep -e 'sts-kids-hd' $epg_full >> $epg
 	grep -e 'mult.*' $epg_full >> $epg
 	grep -e 'backus.*' $epg_full >> $epg
+	grep -e 'blokbast.*' $epg_full >> $epg
 	###################################
 	grep -e '</tv>' $epg_full >> $epg
 else
