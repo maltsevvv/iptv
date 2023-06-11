@@ -10,6 +10,7 @@ if wget -P $folder -q $url; then
 	gunzip $epg_full'.gz'
 	sed -n -e '1,3 p' $epg_full >> $epg
 	###################################
+	# add name channel
 	grep -e 'tv1000.*' $epg_full >> $epg
 	grep -e '.*kino.*' $epg_full >> $epg
 	grep -e 'hollywood' $epg_full >> $epg
@@ -21,7 +22,9 @@ if wget -P $folder -q $url; then
 	grep -e 'sts-kids-hd' $epg_full >> $epg
 	grep -e 'mult.*' $epg_full >> $epg
 	grep -e 'backus.*' $epg_full >> $epg
-	grep -e 'blokbast.*' $epg_full >> $epg
+	grep -e 'blokbaster' $epg_full >> $epg
+	grep -e 'premialnoe' $epg_full >> $epg
+	grep -e 'ostrosiuzhetnoe' $epg_full >> $epg
 	###################################
 	grep -e '</tv>' $epg_full >> $epg
 else
