@@ -49,11 +49,10 @@ udp://@233.81.116.39:1234
 http://139.28.255.251:8000/play/a018
 #EXTINF:-1 tvg-name="blokbaster", Блокбастер
 http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
-#EXTINF:-1 tvg-name="ostrosiuzhetnoe-hd", Остросюжетное HD
+#EXTINF:-1 tvg-name="ostrosiuzhetnoe", Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="premialnoe-hd", Премиальное HD
+#EXTINF:-1 tvg-name="premialnoe", Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="backustv", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
