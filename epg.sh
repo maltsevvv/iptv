@@ -2,6 +2,7 @@
 
 url='https://iptvx.one/EPG_LITE.xml.gz'
 folder='/storage/downloads/'
+#folder='/home/pi/'
 epg_full=$folder'EPG_LITE.xml'
 epg=$folder'epg.xml'
 
