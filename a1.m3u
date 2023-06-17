@@ -47,7 +47,7 @@ udp://@233.81.116.39:1234
 
 #EXTINF:-1 tvg-name="kinouzhas", Киноужас
 http://139.28.255.251:8000/play/a018
-#EXTINF:-1 tvg-shift=+3 tvg-name="blokbaster", Блокбастер
+#EXTINF:-1 tvg-shift=-3 tvg-name="blokbaster", Блокбастер
 http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
 #EXTINF:-1 tvg-name="ostrosiuzhetnoe", Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
