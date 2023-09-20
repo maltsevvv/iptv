@@ -46,13 +46,15 @@ udp://@233.81.116.58:1234
 udp://@233.81.116.39:1234
 
 #EXTINF:-1 tvg-name="kinouzhas", Киноужас
-https://sc.id-tv.kz/Kinouzhas_hd.m3u8"
+http://91.197.104.34:8080/Kinouzhas/video.m3u8"
 #EXTINF:-1 tvg-name="blokbaster", Блокбастер
-http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+http://193.33.88.172/blokbaster_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ostrosiuzhetnoe", Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-name="premialnoe", Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Страшное кино", Шокирующее HD
+http://195.161.68.11:8006/playlist.m3u8
 
 #EXTINF:-1 tvg-name="backustv", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
@@ -64,6 +66,8 @@ https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1, Akudji
 http://hls.goodgame.ru:8080/hls/5346.m3u8
 
+#EXTINF:-1 group-title="Премьеры", BCU Premiere HD 
+http://217.107.34.114:8001/playlist.m3u8
 
 #EXTINF:-1 tvg-name="gulli-girl", Gulli Girl
 udp://@233.81.116.64:1234
