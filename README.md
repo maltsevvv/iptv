@@ -14,7 +14,8 @@ wget https://raw.githubusercontent.com/maltsevvv/iptv/main/iptvsearch.py
 python3 iptvsearch.py
 ```
 
-### EPG http://epg.it999.ru/ru.xml.gz
+### http://epg.it999.ru/ru2.xml.gz
+#### EPG http://epg.it999.ru/ru.xml.gz
 
 ### EPG https://iptvx.one/epg/epg_lite.xml.gz
 
