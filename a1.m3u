@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://help.a1.by/_files/TelecomTV/TelecomTVepg/xmltv.zip"
+#EXTM3U url-tvg="http://epg.it999.ru/ru.xml.gz"
 
 #EXTINF:-1 tvg-name="tv1000", TV 1000
 udp://@233.81.116.83:1234
