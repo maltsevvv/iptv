@@ -44,7 +44,7 @@ udp://@233.81.116.58:1234
 udp://@233.81.116.39:1234
 
 #EXTINF:-1 tvg-name="kinouzhas", Киноужас HD
-http://91.197.104.34:8080/Kinouzhas/video.m3u8"
+https://tbs01-edge11.itdc.ge/kinoujas/index.m3u8
 #EXTINF:-1 tvg-name="blokbaster", Блокбастер HD
 http://193.33.88.172/blokbaster_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ostrosiuzhetnoe", Остросюжетное HD
