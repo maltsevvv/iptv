@@ -42,6 +42,12 @@ udp://@233.81.116.26:1234
 udp://@233.81.116.58:1234
 #EXTINF:-1 tvg-name="vip-comedy", VIP Comedy
 udp://@233.81.116.39:1234
+#EXTINF:-1 tvg-name="vhs-ka", VHS-ka
+udp://@233.81.116.113:1234
+#EXTINF:-1 tvg-name="cinemaa", Cinema
+udp://@233.81.116.113:1234
+#EXTINF:-1 tvg-name="21m", 21M
+udp://@233.81.116.177:1234
 
 #EXTINF:-1 tvg-name="kinouzhas", Киноужас HD
 https://tbs01-edge11.itdc.ge/kinoujas/index.m3u8
@@ -73,5 +79,7 @@ udp://@233.81.116.64:1234
 udp://@233.81.116.134:1234
 #EXTINF:-1  tvg-name="multimania", Мультимания
 udp://@233.81.116.30:1234
+#EXTINF:-1  tvg-name="c", C
+udp://@233.81.116.130:1234
 #EXTINF:-1 tvg-name="mult", Мульт
 udp://@233.81.116.61:1234
