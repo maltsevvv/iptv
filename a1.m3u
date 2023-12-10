@@ -74,4 +74,4 @@ udp://@233.81.116.134:1234
 #EXTINF:-1  tvg-name="multimania", Мультимания
 udp://@233.81.116.30:1234
 #EXTINF:-1 tvg-name="mult", Мульт
-https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8
+udp://@233.81.116.61:1234
