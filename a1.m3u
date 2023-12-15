@@ -44,7 +44,7 @@ udp://@233.81.116.58:1234
 udp://@233.81.116.39:1234
 #EXTINF:-1 tvg-name="vhs-ka", VHS-ka
 udp://@233.81.116.113:1234
-#EXTINF:-1 tvg-name="cinemaa", Cinema
+#EXTINF:-1 tvg-name="Cinema", Cinema
 udp://@233.81.116.114:1234
 #EXTINF:-1 tvg-name="21m", 21M
 udp://@233.81.116.177:1234
