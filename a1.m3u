@@ -46,7 +46,7 @@ udp://@233.81.116.39:1234
 udp://@233.81.116.113:1234
 #EXTINF:-1 tvg-name="Cinema", Cinema
 udp://@233.81.116.114:1234
-#EXTINF:-1 tvg-name="21m", 21M
+#EXTINF:-1 tvg-name="TV XXI", 21век
 udp://@233.81.116.177:1234
 
 #EXTINF:-1 tvg-name="kinouzhas", Киноужас HD
@@ -70,16 +70,16 @@ https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1, Akudji
 http://hls.goodgame.ru:8080/hls/5346.m3u8
 
-#EXTINF:-1 group-title="Премьеры", BCU Premiere HD 
+#EXTINF:-1 tvg-name="BCU Premiere HD", BCU Premiere HD 
 http://217.107.34.114:8001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="gulli-girl", Gulli Girl
+#EXTINF:-1 tvg-name="Gulli", Gulli
 udp://@233.81.116.64:1234
-#EXTINF:-1 tvg-name="sts-kids-hd", СТС Kids
+#EXTINF:-1 tvg-name="СТС Kids HD", СТС Kids
 udp://@233.81.116.134:1234
-#EXTINF:-1  tvg-name="multimania", Мультимания
+#EXTINF:-1  tvg-name="Мультиландия", Мультиландия
 udp://@233.81.116.30:1234
 #EXTINF:-1  tvg-name="c", C
 udp://@233.81.116.130:1234
-#EXTINF:-1 tvg-name="mult", Мульт
+#EXTINF:-1 tvg-name="Тлум HD", Мульт
 udp://@233.81.116.61:1234
