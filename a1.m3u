@@ -60,9 +60,9 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 #EXTINF:-1 group-title="Страшное кино", Шокирующее HD
 http://195.161.68.11:8006/playlist.m3u8
 
-#EXTINF:-1 tvg-name="backustv", BackusTV
+#EXTINF:-1 tvg-name="BackusTV original", BACKUS TV HD
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-name="backustv-horror", BackusTV Страшное
+#EXTINF:-1 tvg-name="BackusTV dark", BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
 
 #EXTINF:-1, STR
