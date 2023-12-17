@@ -49,6 +49,12 @@ udp://@233.81.116.114:1234
 #EXTINF:-1 tvg-name="TV XXI", 21век
 udp://@233.81.116.177:1234
 
+#EXTINF:-1 tvg-name="Kinopokaz", Кинопоказ HD
+http://moobl.ru/hls/Kinopokaz.m3u8
+#EXTINF:-1 tvg-name="Kinoman", Киноман
+http://moobl.ru/hls/Kinoman_hd.m3u8
+
+
 #EXTINF:-1 tvg-name="kinouzhas", Киноужас HD
 https://tbs01-edge11.itdc.ge/kinoujas/index.m3u8
 #EXTINF:-1 tvg-name="blokbaster", Блокбастер HD
@@ -72,6 +78,9 @@ http://hls.goodgame.ru:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-name="BCU Premiere HD", BCU Premiere HD 
 http://217.107.34.114:8001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Disney", Disney
+http://moobl.ru/hls/Magic_Disney_hd.m3u8
 
 #EXTINF:-1 tvg-name="Gulli", Gulli
 udp://@233.81.116.64:1234
