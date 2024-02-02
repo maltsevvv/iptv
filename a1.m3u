@@ -26,14 +26,12 @@ udp://@233.81.116.28:1234
 udp://@233.81.116.94:1234
 #EXTINF:-1 tvg-name="muvitv", Муви ТВ	
 udp://@233.81.116.25:1234
-#EXTINF:-1 tvg-name="amedia1", Amedia 1	
-udp://@233.81.116.70:1234
-#EXTINF:-1 tvg-name="amedia2", Amedia 2	
-udp://@233.81.116.71:1234
-#EXTINF:-1 tvg-name="amedia-premium", Amedia Premium HD
-udp://@233.81.116.167:1234
-#EXTINF:-1 tvg-name="amedia-hit", Amedia Hit HD
-udp://@233.81.116.171:1234
+
+#EXTINF:-1 tvg-name="ТНТ International", ТНТ International
+udp://@233.81.116.15:1234
+#EXTINF:-1 tvg-name="Перец International", Перец International
+udp://@233.81.116.29:1234
+
 #EXTINF:-1 tvg-name="vip-premiere", VIP Premiere
 udp://@233.81.116.14:1234
 #EXTINF:-1 tvg-name="vip-megahit", VIP Megahit
@@ -75,9 +73,6 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1, Akudji
 http://hls.goodgame.ru:8080/hls/5346.m3u8
-
-#EXTINF:-1 tvg-name="BCU Premiere HD", BCU Premiere HD 
-http://217.107.34.114:8001/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Disney", Disney
 http://moobl.ru/hls/Magic_Disney_hd.m3u8
