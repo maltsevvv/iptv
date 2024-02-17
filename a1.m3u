@@ -51,6 +51,29 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-name="BackusTV dark", BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
 
+#EXTINF:-1 tvg-name="ОСТРОСЮЖЕТНОЕ HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx481xw1B4J20a7VGdn.png" group-title="🇷🇺", ОСТРОСЮЖЕТНОЕ HD
+http://213.172.73.132:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://i.ibb.co/Y2Qtm20/image-4.png" group-title="🇷🇺", Сити Эдем - КиноЭкшен
+https://v2.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://i.ibb.co/r58kctK/image-1.png" group-title="🇷🇺", Сити Эдем - КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем - КиноКомедия" group-title="🇷🇺", Сити Эдем - КиноКомедия
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-name="Семейное кино HD" tvg-logo="https://i.ibb.co/LYvgLVv/image-92.png" group-title="🇷🇺", Семейное кино HD
+https://stream8.itv.uz/1276/index.m3u8
+#EXTINF:-1 tvg-name="Кино Боевик HD" tvg-logo="https://i.ibb.co/fvV5q5z/image-93.png" group-title="🇷🇺", Кино Боевик HD
+https://stream8.itv.uz/1277/index.m3u8
+#EXTINF:-1 tvg-name="Премиум Кино HD" tvg-logo="https://i.ibb.co/cX8pLdw/image-94.png" group-title="🇷🇺", Премиум Кино HD
+https://stream8.itv.uz/1278/index.m3u8
+#EXTINF:-1 tvg-name="Крепкое кино" tvg-logo="https://i.ibb.co/Gk8YPvG/image-57.png" group-title="🇷🇺", Крепкое кино
+http://91.207.115.228:5000/c162
+#EXTINF:-1 tvg-name="Мировое Кино HD" tvg-logo="https://i.ibb.co/4svKzj1/image-91.png" group-title="🇷🇺", Мировое Кино HD
+https://stream8.itv.uz/1279/index.m3u8
+#EXTINF:-1 tvg-name="Семейное кино" tvg-logo="https://i.ibb.co/tsQddxW/image-29.png" group-title="🇷🇺", Семейное кино
+http://91.207.115.228:5000/c165
+#EXTINF:-1 tvg-name="Планета  Дети" tvg-logo="https://i.ibb.co/jVLcyz3/image-30.png" group-title="🇷🇺", Планета  Дети
+http://91.207.115.228:5000/c166
+
 #EXTINF:-1, STR
 https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1, Akudji
