@@ -56,9 +56,6 @@ https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1, Akudji
 http://hls.goodgame.ru:8080/hls/5346.m3u8
 
-#EXTINF:-1 tvg-name="Disney", Disney
-http://moobl.ru/hls/Magic_Disney_hd.m3u8
-
 #EXTINF:-1 tvg-name="Gulli", Gulli
 udp://@233.81.116.64:1234
 #EXTINF:-1 tvg-name="СТС Kids HD", СТС Kids
