@@ -60,9 +60,9 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1,BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://smotret.tv/images/str-tv.jpg,STR
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/str-tv.jpg",STR
 https://strtv.at.ua/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://smotret.tv/images/akudji.jpg,Akudji
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/akudji.jpg",Akudji
 http://hls.goodgame.ru:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-name="Gulli", Gulli
