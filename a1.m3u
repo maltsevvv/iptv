@@ -1,13 +1,10 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1 tvg-name="tv1000", TV 1000
-##udp://@233.81.116.83:1234
 http://91.205.199.3:80/tv1000/index.m3u8
 #EXTINF:-1 tvg-name="tv1000-action", TV 1000 Action
-##udp://@233.81.116.80:1234
 http://91.205.199.3:80/tv1000action/index.m3u8
 #EXTINF:-1 tvg-name="tv1000-russkoe-kino", TV 1000 Русское кино
-##udp://@233.81.116.84:1234
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 tvg-name="kinoxit", Кинохит
 udp://@233.81.116.102:1234
