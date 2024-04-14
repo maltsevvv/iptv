@@ -13,11 +13,9 @@ wget https://raw.githubusercontent.com/maltsevvv/iptv/main/iptvsearch.py
 ```
 python3 iptvsearch.py
 ```
-
-### http://epg.one/ru2.xml.gz  
-
-### EPG https://iptvx.one/epg/epg_lite.xml.gz  
-Заблокирован с РБ
+### EPG  
+#### https://iptvx.one/epg/epg_lite.xml.gz  Заблокирован из РБ
+#### http://epg.one/ru2.xml.gz 
 
 ### Resize file EPG for:
 ### *LibreElec*
