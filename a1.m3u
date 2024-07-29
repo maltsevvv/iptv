@@ -1,9 +1,11 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1,TV1000
-http://91.205.199.3:80/tv1000/index.m3u8
+# http://91.205.199.3:80/tv1000/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 #EXTINF:-1,TV 1000 Action
-http://91.205.199.3:80/tv1000action/index.m3u8
+# http://91.205.199.3:80/tv1000action/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1,TV 1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1,Кинохит
