@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1,TV1000
-http://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 #EXTINF:-1,TV 1000 Action
 http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1,TV 1000 Русское кино
