@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/ru2.xml.gz"
 
 #EXTINF:-1,TV1000
 http://82.209.197.187:8080/udp/239.0.100.141:1234
