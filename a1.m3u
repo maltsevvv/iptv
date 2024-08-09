@@ -61,6 +61,8 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
 #EXTINF:-1,FX HD
 http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-id="2626",Բազմոց tv (HD)
+http://stream01.vnet.am/Channel_118/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/str-tv.jpg",STR
 https://strtv.at.ua/hls/index.m3u8
