@@ -69,7 +69,7 @@ https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/akudji.jpg",Akudji
 http://hls.goodgame.ru:8080/hls/5346.m3u8
 
-#EXTINF:-1 tvg-id="ani" group-title="Детские",Ani (WSVGA)
+#EXTINF:-1 tvg-id="ani" group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-name="Gulli", Gulli
 udp://@233.81.116.64:1234
