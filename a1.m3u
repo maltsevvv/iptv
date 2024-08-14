@@ -4,12 +4,6 @@
 http://82.209.197.187:8080/udp/239.0.100.141:1234
 #EXTINF:-1,TV 1000 Action
 http://94.232.104.237:8011/tv1000action/index.m3u8
-#EXTINF:-1 audio-track="ru",Viasat Kino HD
-http://81.7.108.21:9000/play/TV1000-DVBC322-sti4400017090089
-#EXTINF:-1 audio-track="ru",Viasat Kino Action HD
-http://81.7.108.21:9000/play/TV1000Action-DVBC322-sti4400017090089
-#EXTINF:-1,Viasat Kino World
-http://81.7.108.21:9000/play/TV1000RusskojeKino-DVBC322-sti4400017090089
 #EXTINF:-1,Кинохит
 udp://@233.81.116.102:1234
 #EXTINF:-1,Мужское Кино
@@ -20,8 +14,6 @@ udp://@233.81.116.32:1234
 udp://@233.81.116.116:1234
 #EXTINF:-1,Киносемья
 udp://@233.81.116.159:1234
-#EXTINF:-1,TV 1000 Русское кино
-http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1,Наше Новое Кино
 udp://@233.81.116.182:1234
 #EXTINF:-1,Киносвидание
@@ -37,16 +29,6 @@ udp://@233.81.116.113:1234
 #EXTINF:-1,Cinema
 udp://@233.81.116.114:1234
 
-#EXTINF:-1,Viju+ Megahit
-http://185.112.140.28:80/VIPMegahit/index.m3u8
-#EXTINF:-1,Viju+ Premiere
-http://188.113.190.15/201/tracks-v1a1/index.m3u8
-#EXTINF:-1,Видеокассета HD
-https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
-#EXTINF:-1,Кинопоказ HD
-http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8
-#EXTINF:-1,Киноужас HD
-http://31.131.136.4:8001/play/e00b
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/koshmar-hd.jpg", Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1,Страх HD
@@ -56,18 +38,6 @@ http://195.9.195.3:8080/hls/202127.m3u8
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1,BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
-
-#EXTINF:-1,Filmbox
-http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
-#EXTINF:-1,FX HD
-http://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 tvg-id="2626",Բազմոց tv (HD)
-http://stream01.vnet.am/Channel_118/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://smotret.tv/images/str-tv.jpg",STR
-https://strtv.at.ua/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://smotret.tv/images/akudji.jpg",Akudji
-http://hls.goodgame.ru:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-id="ani" group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
