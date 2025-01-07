@@ -1,9 +1,13 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz"
 
-#EXTINF:-1,TV1000
+#EXTINF:-1,Viju TV1000
 udp://@233.81.116.128:1234
-#EXTINF:-1,TV 1000 Action
+#EXTINF:-1,Viju TV1000 Action
 udp://@233.81.116.162:1234
+#EXTINF:-1,Viju TV1000 Русское
+udp://@233.81.116.84:1234
+#EXTINF:-1,Viju+ Megahit
+udp://@233.81.116.45:1234
 #EXTINF:-1,Кинохит
 udp://@233.81.116.102:1234
 #EXTINF:-1,Мужское Кино
