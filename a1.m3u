@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/ru2.xml.gz" "https://bcumedia.pro/epg.xml"
+#EXTM3U url-tvg="https://bcumedia.pro/epg.xml"
 
 #EXTINF:-1,TV1000 HD
 udp://@233.81.116.128:1234
